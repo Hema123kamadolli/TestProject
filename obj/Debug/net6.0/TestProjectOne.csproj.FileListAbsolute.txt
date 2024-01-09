@@ -100,3 +100,4 @@ D:\Mphasis-2\Phase-4\Day-3(Jan092024)\TestProjectOne\TestProjectOne\obj\Debug\ne
 D:\Mphasis-2\Phase-4\Day-3(Jan092024)\TestProjectOne\TestProjectOne\bin\Debug\net6.0\CoverletSourceRootsMapping
 D:\Mphasis-2\Phase-4\Day-3(Jan092024)\TestProjectOne\TestProjectOne\bin\Debug\net6.0\SignInLib.dll
 D:\Mphasis-2\Phase-4\Day-3(Jan092024)\TestProjectOne\TestProjectOne\bin\Debug\net6.0\SignInLib.pdb
+D:\Mphasis-2\Phase-4\Day-3(Jan092024)\TestProjectOne\TestProjectOne\obj\Debug\net6.0\TestProjectOne.sourcelink.json
